@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:fluttercanditicketadmin/Presentacion/IniciarSesion.dart';
-import 'package:fluttercanditicketadmin/Presentacion/RecuperarPassword.dart';
+
 import 'package:fluttercanditicketadmin/menu.dart';
 import 'package:hexcolor/hexcolor.dart';
 
